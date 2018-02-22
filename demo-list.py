@@ -83,17 +83,23 @@ ranked = [
 def encode(unicode_data, encoding='ascii'):
     return unicode_data.encode(encoding, 'xmlcharrefreplace').decode("utf-8") 
 
-ranked = ranked[:100] # just use a tiny selection for testing
-# ranked = [ 68705 ]
-for id in ranked:
-    info = getInfo(id)
+# ranked = ranked[:2] # just use a tiny selection for testing
+
+data = map(lambda id: getInfo(id), ranked)
+print(json.dumps(list(data), indent=4, sort_keys=True))
+
+# for id in ranked:
+    #info = getInfo(id)
     # print(json.dumps(info, indent=4, sort_keys=True))
-    groups = ", ".join(map(lambda group: encode(group["name"]), info["groups"]))
-    print("<p>")
-    print("<h1>" + encode(info["name"]) + "</h1>")
-    print("<h2>" + groups + "</h2>")
-    print("<a href=\"http://www.pouet.net/prod.php?which=" + str(id) + "\">")
-    print("<img src=\"" + info["screenshot"] + "\">")
-    print("</a>")
-    print("</p>")
-    print("<hr>")
+    #groups = ", ".join(map(lambda group: encode(group["name"]), info["groups"]))
+    #print("<p>")
+    #print("<h1>" + encode(info["name"]) + "</h1>")
+    #print("<h2>" + groups + "</h2>")
+    #print("<a href=\"http://www.pouet.net/prod.php?which=" + str(id) + "\">")
+    #if hasattr(info, 'screenshot'):
+#        print("<img src=\"" + info["screenshot"] + "\">")
+#    else:
+#        print("No screenshot :(")
+#    print("</a>")
+#    print("</p>")
+#    print("<hr>")
