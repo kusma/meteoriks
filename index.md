@@ -10,7 +10,7 @@ layout: home
 
 {% if demo.groups.size > 0 %}
 {% assign groups = demo.groups | map: 'name' %}
-## by {{ groups | array_to_sentence_string }}
+by {{ groups | array_to_sentence_string }}
 {% endif %}
 
 {% if demo.screenshot == null %}
