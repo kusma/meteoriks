@@ -7,11 +7,7 @@
 by {{ groups | array_to_sentence_string }}
 {% endif %}
 
-{% if prod.screenshot == null %}
-[![{{ prod.name }}](http://via.placeholder.com/400x300?text=No+Screenshot)](http://www.pouet.net/prod.php?which={{prod.id}})
-{% else %}
-[![{{ prod.name }}]({{ prod.screenshot }})](http://www.pouet.net/prod.php?which={{ prod.id }})
-{% endif %}
+[![{{ prod.name }}]({{ prod.screenshot | default: "http://via.placeholder.com/400x300?text=No+Screenshot" }})](http://www.pouet.net/prod.php?which={{ prod.id }})
 
 {% assign platforms = prod.platforms | first | map: 'name' %}
 
