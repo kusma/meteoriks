@@ -13,8 +13,11 @@ by {{ groups | array_to_sentence_string }}
 [![{{ prod.name }}]({{ prod.screenshot }})](http://www.pouet.net/prod.php?which={{ prod.id }})
 {% endif %}
 
+{% assign platforms = prod.platforms | first | map: 'name' %}
+
 * Type: {{ prod.types | array_to_sentence_string }}
 * Rank: {{ forloop.index }}
+* Platform: {{ platforms }}
 
 ---
 {% endfor %}
