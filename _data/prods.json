@@ -1828,7 +1828,7 @@
         "id": "68705",
         "invitation": null,
         "invitationyear": "0",
-        "name": "e-Bun. \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0411\u0443\u043b\u043a\u0430",
+        "name": "e-Bun. ЭлектроБулка",
         "party": {
             "id": "1670",
             "name": "DiHalt Lite",
@@ -4479,11 +4479,11 @@
                 "web": "http://www.freshmindworkz.hu/demoscene/"
             },
             {
-                "acronym": "\u00dcD",
+                "acronym": "ÜD",
                 "addedDate": "2001-08-10 21:52:21",
                 "addedUser": "1007",
                 "id": "1262",
-                "name": "\u00dcmla\u00fct Design",
+                "name": "Ümlaüt Design",
                 "web": "http://www.umlaut.hu/"
             }
         ],
@@ -5906,7 +5906,7 @@
                     "glops": "14",
                     "id": "100491",
                     "level": "user",
-                    "nickname": "Bj\u00f8rn R\u00f8st\u00f8en",
+                    "nickname": "Bjørn Røstøen",
                     "registerDate": "2017-02-13 20:47:10"
                 }
             }
@@ -6495,7 +6495,7 @@
                 "addedDate": "2017-08-20 16:20:28",
                 "addedUser": "1156",
                 "id": "13308",
-                "name": "Milton L\u00e4ufer",
+                "name": "Milton Läufer",
                 "web": ""
             }
         ],
@@ -9575,7 +9575,7 @@
                     "glops": "14",
                     "id": "100491",
                     "level": "user",
-                    "nickname": "Bj\u00f8rn R\u00f8st\u00f8en",
+                    "nickname": "Bjørn Røstøen",
                     "registerDate": "2017-02-13 20:47:10"
                 }
             },
@@ -9663,7 +9663,7 @@
                     "glops": "2",
                     "id": "98756",
                     "level": "user",
-                    "nickname": "Kristian R\u00f8st\u00f8en",
+                    "nickname": "Kristian Røstøen",
                     "registerDate": "2014-10-29 00:34:36"
                 }
             },
@@ -9777,7 +9777,7 @@
         "id": "68871",
         "invitation": null,
         "invitationyear": "0",
-        "name": "G\u00f6teborg Tower",
+        "name": "Göteborg Tower",
         "party": {
             "id": "1526",
             "name": "Datastorm",
@@ -10207,7 +10207,7 @@
         "id": "68876",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Surdatastr\u00f6mming 95%",
+        "name": "Surdataströmming 95%",
         "party": {
             "id": "1526",
             "name": "Datastorm",
@@ -12901,7 +12901,7 @@
         "id": "68971",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u6614",
+        "name": "昔",
         "party": {
             "id": "1542",
             "name": "TokyoDemoFest",
@@ -13627,7 +13627,7 @@
         "id": "68980",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Superpig (\u30b9\u30fc\u30d1\u30fc\u30d6\u30bf)",
+        "name": "Superpig (スーパーブタ)",
         "party": {
             "id": "1542",
             "name": "TokyoDemoFest",
@@ -14586,7 +14586,7 @@
         "id": "69049",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Basic income is better than \u96c7\u7528\u4fdd\u967a",
+        "name": "Basic income is better than 雇用保険",
         "party": {
             "id": "1542",
             "name": "TokyoDemoFest",
@@ -15780,7 +15780,7 @@
         "id": "69468",
         "invitation": null,
         "invitationyear": "0",
-        "name": "DWITTER\u2014SON1K",
+        "name": "DWITTER—SON1K",
         "party": {
             "id": "1640",
             "name": "js1k",
@@ -17217,7 +17217,7 @@
         "platforms": {
             "145": {
                 "icon": "k_samcoupe.gif",
-                "name": "SAM Coup\u00e9",
+                "name": "SAM Coupé",
                 "slug": "samcoup"
             }
         },
@@ -18367,7 +18367,7 @@
         "id": "71894",
         "invitation": null,
         "invitationyear": "0",
-        "name": "nyt on elokuu ja min\u00e4 olen leipaeae",
+        "name": "nyt on elokuu ja minä olen leipaeae",
         "party": {
             "id": "1544",
             "name": "Instanssi",
@@ -18661,7 +18661,7 @@
         "id": "72320",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Superl\u00f3pez, el Se\u00f1or de los Chupetes",
+        "name": "Superlópez, el Señor de los Chupetes",
         "party": null,
         "party_compo": null,
         "party_compo_name": null,
@@ -21601,7 +21601,7 @@
                     "glops": "5979",
                     "id": "17248",
                     "level": "user",
-                    "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+                    "nickname": "ɧคɾɗվ.",
                     "registerDate": "2007-04-10 20:54:29"
                 }
             }
@@ -22507,7 +22507,7 @@
                     "glops": "676",
                     "id": "22726",
                     "level": "user",
-                    "nickname": "knoeki \ud83c\udf7c",
+                    "nickname": "knoeki 🍼",
                     "registerDate": "2007-01-26 19:07:55"
                 }
             }
@@ -24520,7 +24520,7 @@
                     "glops": "256",
                     "id": "35153",
                     "level": "user",
-                    "nickname": "\u2228oXf\u2c64\u039e\u028c\u031fX",
+                    "nickname": "∨oXfⱤΞʌ̟X",
                     "registerDate": "2008-07-30 16:03:30"
                 }
             }
@@ -25259,7 +25259,7 @@
         "id": "69689",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\ufeff\ud83c\udf1a (Molester Moon Emoji)",
+        "name": "﻿🌚 (Molester Moon Emoji)",
         "party": {
             "id": "1550",
             "name": "Revision",
@@ -29419,7 +29419,7 @@
             "glops": "676",
             "id": "22726",
             "level": "user",
-            "nickname": "knoeki \ud83c\udf7c",
+            "nickname": "knoeki 🍼",
             "registerDate": "2007-01-26 19:07:55"
         },
         "awards": [],
@@ -29433,7 +29433,7 @@
                     "glops": "676",
                     "id": "22726",
                     "level": "user",
-                    "nickname": "knoeki \ud83c\udf7c",
+                    "nickname": "knoeki 🍼",
                     "registerDate": "2007-01-26 19:07:55"
                 }
             }
@@ -31394,7 +31394,7 @@
         "id": "69759",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Se otti vain kolme fiiattia p\u00e4\u00e4st\u00e4kseen t\u00e4nne",
+        "name": "Se otti vain kolme fiiattia päästäkseen tänne",
         "party": {
             "id": "1550",
             "name": "Revision",
@@ -31754,7 +31754,7 @@
                     "glops": "5979",
                     "id": "17248",
                     "level": "user",
-                    "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+                    "nickname": "ɧคɾɗվ.",
                     "registerDate": "2007-04-10 20:54:29"
                 }
             }
@@ -34009,7 +34009,7 @@
                     "glops": "1604",
                     "id": "942",
                     "level": "user",
-                    "nickname": "\u00ce\u00b6\u00cf\u2021\u00cf\u02c6\u00cf\u2030\u00ce\u00b2",
+                    "nickname": "Î¶Ï‡ÏˆÏ‰Î²",
                     "registerDate": "2001-07-27 04:39:03"
                 }
             }
@@ -35148,7 +35148,7 @@
         "download": "http://plus4world.powweb.com/dl/games/m/mr_mind.prg",
         "downloadLinks": [
             {
-                "link": "https://www.youtube.com/watch?v=2fNIvBuHOe4\ufeff",
+                "link": "https://www.youtube.com/watch?v=2fNIvBuHOe4﻿",
                 "type": "youtube"
             }
         ],
@@ -35414,7 +35414,7 @@
         "id": "69815",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Le cube sph\u00e9rique dans un vide",
+        "name": "Le cube sphérique dans un vide",
         "party": {
             "id": "1680",
             "name": "Multimatograf",
@@ -36677,7 +36677,7 @@
         "id": "69878",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u0414\u0440\u0443\u0433\u0438\u0435",
+        "name": "Другие",
         "party": {
             "id": "1680",
             "name": "Multimatograf",
@@ -36842,7 +36842,7 @@
         "id": "69883",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u0414\u0432\u0438\u0433\u0430\u043b\u043a\u0430",
+        "name": "Двигалка",
         "party": {
             "id": "1680",
             "name": "Multimatograf",
@@ -37143,7 +37143,7 @@
         "id": "69962",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u041e\u0447\u0435\u043d\u044c \u0441\u043b\u043e\u0436\u043d\u044b\u0439 \u0442\u0435\u0441\u0442",
+        "name": "Очень сложный тест",
         "party": {
             "id": "1680",
             "name": "Multimatograf",
@@ -38825,11 +38825,11 @@
         ],
         "groups": [
             {
-                "acronym": "\u00dcD",
+                "acronym": "ÜD",
                 "addedDate": "2001-08-10 21:52:21",
                 "addedUser": "1007",
                 "id": "1262",
-                "name": "\u00dcmla\u00fct Design",
+                "name": "Ümlaüt Design",
                 "web": "http://www.umlaut.hu/"
             }
         ],
@@ -39606,7 +39606,7 @@
                 "addedDate": "2003-07-17 02:01:45",
                 "addedUser": "1007",
                 "id": "2830",
-                "name": "Tesco Gazdas\u00e1gos Dem\u00f3csapat",
+                "name": "Tesco Gazdaságos Demócsapat",
                 "web": "http://tgd.intro.hu"
             }
         ],
@@ -40010,7 +40010,7 @@
                 "addedDate": "2017-05-14 20:29:30",
                 "addedUser": "100506",
                 "id": "13097",
-                "name": "Abera\u010dn\u00e9 kre\u00e1cie",
+                "name": "Aberačné kreácie",
                 "web": ""
             }
         ],
@@ -42889,7 +42889,7 @@
                     "glops": "533",
                     "id": "7427",
                     "level": "user",
-                    "nickname": "tob\u00e9",
+                    "nickname": "tobé",
                     "registerDate": "2004-04-08 00:08:41"
                 }
             }
@@ -43956,7 +43956,7 @@
         "id": "70135",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\ubc14\ub9ac\uc7a3",
+        "name": "바리잣",
         "party": {
             "id": "652",
             "name": "Outline",
@@ -46250,7 +46250,7 @@
         "id": "70289",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Ljusf\u00e4rd",
+        "name": "Ljusfärd",
         "party": {
             "id": "9",
             "name": "Birdie",
@@ -49688,7 +49688,7 @@
                 "addedDate": "2017-06-18 11:38:12",
                 "addedUser": "3891",
                 "id": "13142",
-                "name": "ZITR\u00d3N",
+                "name": "ZITRÓN",
                 "web": ""
             }
         ],
@@ -51128,7 +51128,7 @@
                     "glops": "676",
                     "id": "22726",
                     "level": "user",
-                    "nickname": "knoeki \ud83c\udf7c",
+                    "nickname": "knoeki 🍼",
                     "registerDate": "2007-01-26 19:07:55"
                 }
             }
@@ -51155,7 +51155,7 @@
         "id": "70420",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Takoyaki Ni Naru (\u305f\u3053\u3084\u304d \u306b \u306a\u308b)",
+        "name": "Takoyaki Ni Naru (たこやき に なる)",
         "party": null,
         "party_compo": null,
         "party_compo_name": null,
@@ -54192,7 +54192,7 @@
         ],
         "csdb": "0",
         "demozoo": "173230",
-        "download": "https://files.scene.org/view/parties/2017/uc8/demo_demohass/rufusul-soulsplitter_im_r\u00fcckw\u00e4rtsgangs,_(p)artly.zip",
+        "download": "https://files.scene.org/view/parties/2017/uc8/demo_demohass/rufusul-soulsplitter_im_rückwärtsgangs,_(p)artly.zip",
         "downloadLinks": [],
         "groups": [
             {
@@ -54207,7 +54207,7 @@
         "id": "70810",
         "invitation": null,
         "invitationyear": "0",
-        "name": "soulsplitter im R\u00fcckw\u00e4rtsgang",
+        "name": "soulsplitter im Rückwärtsgang",
         "party": {
             "id": "46",
             "name": "Underground Conference",
@@ -55571,7 +55571,7 @@
                     "glops": "14",
                     "id": "100491",
                     "level": "user",
-                    "nickname": "Bj\u00f8rn R\u00f8st\u00f8en",
+                    "nickname": "Bjørn Røstøen",
                     "registerDate": "2017-02-13 20:47:10"
                 }
             },
@@ -56231,7 +56231,7 @@
                     "glops": "676",
                     "id": "22726",
                     "level": "user",
-                    "nickname": "knoeki \ud83c\udf7c",
+                    "nickname": "knoeki 🍼",
                     "registerDate": "2007-01-26 19:07:55"
                 }
             },
@@ -58425,7 +58425,7 @@
                 "addedDate": "2016-07-04 18:57:28",
                 "addedUser": "3549",
                 "id": "12834",
-                "name": "_KpR\u00f1A_",
+                "name": "_KpRñA_",
                 "web": ""
             }
         ],
@@ -59091,7 +59091,7 @@
         "id": "70699",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Visual Cortex Experience:  \u8108\u885d - Pulssi",
+        "name": "Visual Cortex Experience:  脈衝 - Pulssi",
         "party": {
             "id": "1689",
             "name": "Graffathon",
@@ -59476,7 +59476,7 @@
                 "addedDate": "2014-06-08 16:46:44",
                 "addedUser": "33436",
                 "id": "12348",
-                "name": "Funkentst\u00f6rt",
+                "name": "Funkentstört",
                 "web": ""
             }
         ],
@@ -59904,7 +59904,7 @@
         "id": "70793",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Kes\u00e4h\u00e4x\u00e4",
+        "name": "Kesähäxä",
         "party": {
             "id": "1507",
             "name": "Sommarhack",
@@ -59956,7 +59956,7 @@
             "glops": "756",
             "id": "4624",
             "level": "user",
-            "nickname": "\u3059\u3059\u308c",
+            "nickname": "すすれ",
             "registerDate": "2003-07-11 10:41:52"
         },
         "awards": [],
@@ -59970,7 +59970,7 @@
                     "glops": "756",
                     "id": "4624",
                     "level": "user",
-                    "nickname": "\u3059\u3059\u308c",
+                    "nickname": "すすれ",
                     "registerDate": "2003-07-11 10:41:52"
                 }
             },
@@ -60093,7 +60093,7 @@
                     "glops": "756",
                     "id": "4624",
                     "level": "user",
-                    "nickname": "\u3059\u3059\u308c",
+                    "nickname": "すすれ",
                     "registerDate": "2003-07-11 10:41:52"
                 }
             },
@@ -61943,7 +61943,7 @@
         "id": "70981",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Absolute D\u00f8lle 2",
+        "name": "Absolute Dølle 2",
         "party": {
             "id": "391",
             "name": "Solskogen",
@@ -68600,7 +68600,7 @@
                 "addedDate": "2017-08-04 02:22:35",
                 "addedUser": "100924",
                 "id": "13228",
-                "name": "Juho Mets\u00e4vuori",
+                "name": "Juho Metsävuori",
                 "web": ""
             }
         ],
@@ -68929,7 +68929,7 @@
                 "addedDate": "2017-08-04 02:27:49",
                 "addedUser": "100924",
                 "id": "13232",
-                "name": "Team M\u00f6ns",
+                "name": "Team Möns",
                 "web": ""
             }
         ],
@@ -69345,7 +69345,7 @@
                 "addedDate": "2017-08-04 02:36:29",
                 "addedUser": "100924",
                 "id": "13240",
-                "name": "Saku Syngelm\u00e4",
+                "name": "Saku Syngelmä",
                 "web": ""
             }
         ],
@@ -74296,7 +74296,7 @@
         "id": "71449",
         "invitation": null,
         "invitationyear": "0",
-        "name": "H\u00e4iri\u00f6kuilo",
+        "name": "Häiriökuilo",
         "party": {
             "id": "7",
             "name": "Assembly",
@@ -75043,7 +75043,7 @@
             },
             "145": {
                 "icon": "k_samcoupe.gif",
-                "name": "SAM Coup\u00e9",
+                "name": "SAM Coupé",
                 "slug": "samcoup"
             },
             "146": {
@@ -75601,7 +75601,7 @@
         "name": "Drifting Lights",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "127",
@@ -75614,7 +75614,7 @@
                 "compo_name": "wild demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "3",
@@ -75716,7 +75716,7 @@
         "name": "F1 Evolution",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -75729,7 +75729,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "4",
@@ -75809,7 +75809,7 @@
         "name": "Epic Comeback",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -75822,7 +75822,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "1",
@@ -75913,7 +75913,7 @@
         "name": "SPiN Me",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -75926,7 +75926,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "5",
@@ -76017,7 +76017,7 @@
         "name": "25 years later",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -76030,7 +76030,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "2",
@@ -76098,7 +76098,7 @@
         "name": "Dreamtime 2K17 C64",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -76111,7 +76111,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "6",
@@ -76179,7 +76179,7 @@
         "name": "How Gee",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -76192,7 +76192,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "8",
@@ -76272,7 +76272,7 @@
         "name": "Dreamtime 2K17 +4",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -76285,7 +76285,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "3",
@@ -76371,7 +76371,7 @@
         "name": "Creative Lameness",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": "50",
@@ -76384,7 +76384,7 @@
                 "compo_name": "c64 demo",
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "7",
@@ -76559,7 +76559,7 @@
         "name": "Carry me to the clouds",
         "party": {
             "id": "535",
-            "name": "\u00c1rok Party",
+            "name": "Árok Party",
             "web": "http://arok.intro.hu/"
         },
         "party_compo": null,
@@ -76572,7 +76572,7 @@
                 "compo_name": null,
                 "party": {
                     "id": "535",
-                    "name": "\u00c1rok Party",
+                    "name": "Árok Party",
                     "web": "http://arok.intro.hu/"
                 },
                 "ranking": "4",
@@ -80686,7 +80686,7 @@
         "id": "71575",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u4e2a\u4e43\u3061\u4e03\u5141\u30e0\u304f\u4e03 (Abstract) feat. Alkama",
+        "name": "个乃ち七允ムく七 (Abstract) feat. Alkama",
         "party": {
             "id": "18",
             "name": "Evoke",
@@ -81721,7 +81721,7 @@
         "id": "71588",
         "invitation": null,
         "invitationyear": "0",
-        "name": "sp04 - \uac70\ubbf8 \uae40 (Spider Kim)",
+        "name": "sp04 - 거미 김 (Spider Kim)",
         "party": {
             "id": "18",
             "name": "Evoke",
@@ -82076,7 +82076,7 @@
             "glops": "5979",
             "id": "17248",
             "level": "user",
-            "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+            "nickname": "ɧคɾɗվ.",
             "registerDate": "2007-04-10 20:54:29"
         },
         "awards": [],
@@ -82090,7 +82090,7 @@
                     "glops": "5979",
                     "id": "17248",
                     "level": "user",
-                    "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+                    "nickname": "ɧคɾɗվ.",
                     "registerDate": "2007-04-10 20:54:29"
                 }
             },
@@ -82912,7 +82912,7 @@
                 "addedDate": "2017-08-20 23:27:29",
                 "addedUser": "100545",
                 "id": "13313",
-                "name": "Mgr in\u017c. Rafa\u0142",
+                "name": "Mgr inż. Rafał",
                 "web": ""
             }
         ],
@@ -83117,7 +83117,7 @@
         "id": "71628",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Piekie\u0142eczko",
+        "name": "Piekiełeczko",
         "party": {
             "id": "1819",
             "name": "Ironia",
@@ -85667,7 +85667,7 @@
         "id": "71891",
         "invitation": null,
         "invitationyear": "0",
-        "name": "F\u00f6rs\u00e4kringskassan",
+        "name": "Försäkringskassan",
         "party": {
             "id": "7",
             "name": "Assembly",
@@ -87855,7 +87855,7 @@
                     "glops": "14",
                     "id": "100491",
                     "level": "user",
-                    "nickname": "Bj\u00f8rn R\u00f8st\u00f8en",
+                    "nickname": "Bjørn Røstøen",
                     "registerDate": "2017-02-13 20:47:10"
                 }
             }
@@ -90547,7 +90547,7 @@
                 "addedDate": "2017-05-14 20:29:30",
                 "addedUser": "100506",
                 "id": "13097",
-                "name": "Abera\u010dn\u00e9 kre\u00e1cie",
+                "name": "Aberačné kreácie",
                 "web": ""
             }
         ],
@@ -92138,7 +92138,7 @@
             "glops": "5979",
             "id": "17248",
             "level": "user",
-            "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+            "nickname": "ɧคɾɗվ.",
             "registerDate": "2007-04-10 20:54:29"
         },
         "awards": [],
@@ -92152,7 +92152,7 @@
                     "glops": "5979",
                     "id": "17248",
                     "level": "user",
-                    "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+                    "nickname": "ɧคɾɗվ.",
                     "registerDate": "2007-04-10 20:54:29"
                 }
             },
@@ -92562,7 +92562,7 @@
                 "addedDate": "2007-01-15 21:45:47",
                 "addedUser": "1156",
                 "id": "7125",
-                "name": "\u0158r\u0159ola",
+                "name": "Řrřola",
                 "web": "http://rrrola.wz.cz/"
             }
         ],
@@ -93974,7 +93974,7 @@
         "id": "71788",
         "invitation": null,
         "invitationyear": "0",
-        "name": "M\u00e9gse.",
+        "name": "Mégse.",
         "party": {
             "id": "617",
             "name": "Function",
@@ -94411,7 +94411,7 @@
                 }
             },
             {
-                "role": "modelling the csillagt\u00f6k",
+                "role": "modelling the csillagtök",
                 "user": {
                     "avatar": "c64boot.gif",
                     "glops": "88",
@@ -94448,14 +94448,14 @@
                 "addedDate": "2003-07-17 02:01:45",
                 "addedUser": "1007",
                 "id": "2830",
-                "name": "Tesco Gazdas\u00e1gos Dem\u00f3csapat",
+                "name": "Tesco Gazdaságos Demócsapat",
                 "web": "http://tgd.intro.hu"
             }
         ],
         "id": "71793",
         "invitation": null,
         "invitationyear": "0",
-        "name": "The second coming of the csillagt\u00f6k",
+        "name": "The second coming of the csillagtök",
         "party": {
             "id": "617",
             "name": "Function",
@@ -95468,7 +95468,7 @@
         "id": "71808",
         "invitation": null,
         "invitationyear": "0",
-        "name": "F\u00e1nkS\u00fcn'17",
+        "name": "FánkSün'17",
         "party": {
             "id": "617",
             "name": "Function",
@@ -96861,7 +96861,7 @@
         "id": "71834",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u0394",
+        "name": "Δ",
         "party": {
             "id": "1822",
             "name": "Dekadence 20v",
@@ -98273,10 +98273,10 @@
         "id": "72468",
         "invitation": null,
         "invitationyear": "0",
-        "name": "PROPS-M\u00c1QUINA",
+        "name": "PROPS-MÁQUINA",
         "party": {
             "id": "275",
-            "name": "in\u00e9rciaDemoparty",
+            "name": "inérciaDemoparty",
             "web": "http://inercia.scene.org"
         },
         "party_compo": "127",
@@ -98289,7 +98289,7 @@
                 "compo_name": "wild demo",
                 "party": {
                     "id": "275",
-                    "name": "in\u00e9rciaDemoparty",
+                    "name": "inérciaDemoparty",
                     "web": "http://inercia.scene.org"
                 },
                 "ranking": "98",
@@ -99178,7 +99178,7 @@
         ],
         "csdb": "0",
         "demozoo": "178891",
-        "download": "http://www.amietia.com/eos_-_\u304a\u82b1\u898b.zip",
+        "download": "http://www.amietia.com/eos_-_お花見.zip",
         "downloadLinks": [
             {
                 "link": "https://youtu.be/xYRP6IC5Wek",
@@ -99198,7 +99198,7 @@
         "id": "71888",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u304a\u82b1\u898b",
+        "name": "お花見",
         "party": {
             "id": "1691",
             "name": "Deadline (Berlin)",
@@ -102428,7 +102428,7 @@
                 "addedDate": "2017-10-22 16:27:47",
                 "addedUser": "100545",
                 "id": "13396",
-                "name": "Team K\u00f8ge Bugt",
+                "name": "Team Køge Bugt",
                 "web": ""
             }
         ],
@@ -104884,7 +104884,7 @@
                 "addedDate": "2017-05-14 20:29:30",
                 "addedUser": "100506",
                 "id": "13097",
-                "name": "Abera\u010dn\u00e9 kre\u00e1cie",
+                "name": "Aberačné kreácie",
                 "web": ""
             }
         ],
@@ -105249,7 +105249,7 @@
                     "glops": "14",
                     "id": "100491",
                     "level": "user",
-                    "nickname": "Bj\u00f8rn R\u00f8st\u00f8en",
+                    "nickname": "Bjørn Røstøen",
                     "registerDate": "2017-02-13 20:47:10"
                 }
             },
@@ -107267,7 +107267,7 @@
         "id": "72279",
         "invitation": null,
         "invitationyear": "0",
-        "name": "CRTC\u00b3",
+        "name": "CRTC³",
         "party": {
             "id": "627",
             "name": "Alchimie",
@@ -109333,7 +109333,7 @@
         ],
         "groups": [
             {
-                "acronym": "\u03bb",
+                "acronym": "λ",
                 "addedDate": "2017-05-11 01:46:46",
                 "addedUser": "100313",
                 "id": "13095",
@@ -109722,7 +109722,7 @@
         "id": "72453",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Kapita\u00a3",
+        "name": "Kapita£",
         "party": {
             "id": "1775",
             "name": "Vortex",
@@ -110390,7 +110390,7 @@
         "download": "https://ftp.scene.org/pub/parties/2017/vortex17/demo/s-t-by-tahtituho.zip",
         "downloadLinks": [
             {
-                "link": "https://t\u00e4htituho.com/party/vortex2017/",
+                "link": "https://tähtituho.com/party/vortex2017/",
                 "type": "online version"
             },
             {
@@ -110404,8 +110404,8 @@
                 "addedDate": "2017-11-27 16:00:18",
                 "addedUser": "101185",
                 "id": "13468",
-                "name": "t\u00e4htituho",
-                "web": "https://t\u00e4htituho.com/"
+                "name": "tähtituho",
+                "web": "https://tähtituho.com/"
             }
         ],
         "id": "72473",
@@ -110487,7 +110487,7 @@
         "id": "72474",
         "invitation": null,
         "invitationyear": "0",
-        "name": "kes\u00e4liima 2018 invitation",
+        "name": "kesäliima 2018 invitation",
         "party": {
             "id": "1775",
             "name": "Vortex",
@@ -110572,7 +110572,7 @@
         "id": "72475",
         "invitation": null,
         "invitationyear": "0",
-        "name": "\u03b1",
+        "name": "α",
         "party": {
             "id": "1775",
             "name": "Vortex",
@@ -111264,7 +111264,7 @@
         "id": "72481",
         "invitation": null,
         "invitationyear": "0",
-        "name": "M\u00e4hh",
+        "name": "Mähh",
         "party": {
             "id": "1775",
             "name": "Vortex",
@@ -112845,14 +112845,14 @@
                 "addedDate": "2015-11-15 15:01:21",
                 "addedUser": "36757",
                 "id": "12704",
-                "name": "\u00c4\u00e4rikeskusta",
+                "name": "Äärikeskusta",
                 "web": ""
             }
         ],
         "id": "72570",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Time to Wake Up - Or How I Came To Love V\u00e4yrynen",
+        "name": "Time to Wake Up - Or How I Came To Love Väyrynen",
         "party": {
             "id": "1747",
             "name": "REN XMas Party",
@@ -114640,11 +114640,11 @@
         ],
         "groups": [
             {
-                "acronym": "\u00dcD",
+                "acronym": "ÜD",
                 "addedDate": "2001-08-10 21:52:21",
                 "addedUser": "1007",
                 "id": "1262",
-                "name": "\u00dcmla\u00fct Design",
+                "name": "Ümlaüt Design",
                 "web": "http://www.umlaut.hu/"
             }
         ],
@@ -114743,14 +114743,14 @@
                 "addedDate": "2003-07-17 02:01:45",
                 "addedUser": "1007",
                 "id": "2830",
-                "name": "Tesco Gazdas\u00e1gos Dem\u00f3csapat",
+                "name": "Tesco Gazdaságos Demócsapat",
                 "web": "http://tgd.intro.hu"
             }
         ],
         "id": "72756",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Ly\u00e9zus",
+        "name": "Lyézus",
         "party": {
             "id": "1631",
             "name": "Experience",
@@ -116017,7 +116017,7 @@
         "id": "72807",
         "invitation": null,
         "invitationyear": "0",
-        "name": "Kiiritti P\u00e4tsi",
+        "name": "Kiiritti Pätsi",
         "party": {
             "id": "1779",
             "name": "Cookie",
@@ -118139,7 +118139,7 @@
         "id": "72965",
         "invitation": null,
         "invitationyear": "0",
-        "name": "HRM (HighResMode) 2 \u2013 Wonderful World",
+        "name": "HRM (HighResMode) 2 – Wonderful World",
         "party": {
             "id": "438",
             "name": "Silly Venture",
@@ -118472,7 +118472,7 @@
                     "glops": "5979",
                     "id": "17248",
                     "level": "user",
-                    "nickname": "\u0267\u0e04\u027e\u0257\u057e.",
+                    "nickname": "ɧคɾɗվ.",
                     "registerDate": "2007-04-10 20:54:29"
                 }
             },
@@ -122490,7 +122490,7 @@
             "glops": "756",
             "id": "4624",
             "level": "user",
-            "nickname": "\u3059\u3059\u308c",
+            "nickname": "すすれ",
             "registerDate": "2003-07-11 10:41:52"
         },
         "awards": [],
@@ -122504,7 +122504,7 @@
                     "glops": "756",
                     "id": "4624",
                     "level": "user",
-                    "nickname": "\u3059\u3059\u308c",
+                    "nickname": "すすれ",
                     "registerDate": "2003-07-11 10:41:52"
                 }
             },
