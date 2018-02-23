@@ -12,5 +12,9 @@ by {{ groups | array_to_sentence_string }}
 {% else %}
 [![{{ prod.name }}]({{ prod.screenshot }})](http://www.pouet.net/prod.php?which={{ prod.id }})
 {% endif %}
+
+* Type: {{ prod.types | array_to_sentence_string }}
+* Rank: {{ forloop.index }}
+
 ---
 {% endfor %}
