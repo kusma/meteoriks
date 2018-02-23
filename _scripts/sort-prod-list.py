@@ -1,7 +1,5 @@
 import argparse
-import html
 import json
-import urllib.request
 
 parser = argparse.ArgumentParser()
 parser.add_argument("filename", type=str,
