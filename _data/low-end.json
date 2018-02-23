@@ -710,6 +710,149 @@
         "zxdemo": "0"
     },
     {
+        "addedDate": "2017-09-06 22:38:55",
+        "addedUser": "13047",
+        "addeduser": {
+            "avatar": "!!.gif",
+            "glops": "17",
+            "id": "13047",
+            "level": "user",
+            "nickname": "kiero",
+            "registerDate": "2007-04-12 09:40:22"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [
+            {
+                "role": "code",
+                "user": {
+                    "avatar": "!!.gif",
+                    "glops": "17",
+                    "id": "13047",
+                    "level": "user",
+                    "nickname": "kiero",
+                    "registerDate": "2007-04-12 09:40:22"
+                }
+            },
+            {
+                "role": "gfx",
+                "user": {
+                    "avatar": "invader.gif",
+                    "glops": "618",
+                    "id": "9408",
+                    "level": "user",
+                    "nickname": "substrate",
+                    "registerDate": "2004-08-08 21:05:24"
+                }
+            },
+            {
+                "role": "gfx",
+                "user": {
+                    "avatar": "!!.gif",
+                    "glops": "58",
+                    "id": "26783",
+                    "level": "user",
+                    "nickname": "ubik",
+                    "registerDate": "2007-08-28 21:10:52"
+                }
+            },
+            {
+                "role": "music",
+                "user": {
+                    "avatar": "LEMON.gif",
+                    "glops": "31",
+                    "id": "26768",
+                    "level": "user",
+                    "nickname": "Chaser",
+                    "registerDate": "2007-08-28 08:33:42"
+                }
+            }
+        ],
+        "csdb": "0",
+        "demozoo": "177919",
+        "download": "https://files.scene.org/view/parties/2017/riverwash17/pc_demo/eld-riseandshine-pc.zip",
+        "downloadLinks": [
+            {
+                "link": "https://files.scene.org/view/parties/2017/riverwash17/pc_demo/eld-riseandshine-amiga.lha",
+                "type": "amiga port"
+            },
+            {
+                "link": "https://soundcloud.com/chasertg/rise-and-shine",
+                "type": "soundcloud"
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=7liUfI46Weg",
+                "type": "Youtube (Amiga Version)"
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=FUjKo_hgLL8",
+                "type": "YouTube (Windows Port)"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "",
+                "addedDate": "2008-03-24 15:04:40",
+                "addedUser": "1156",
+                "id": "10089",
+                "name": "Elude",
+                "web": "http://theelude.eu"
+            }
+        ],
+        "id": "71742",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "Rise And Shine",
+        "party": {
+            "id": "1363",
+            "name": "Riverwash",
+            "web": "http://www.riverwash.org/"
+        },
+        "party_compo": "57",
+        "party_compo_name": "combined demo",
+        "party_place": "1",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "57",
+                "compo_name": "combined demo",
+                "party": {
+                    "id": "1363",
+                    "name": "Riverwash",
+                    "web": "http://www.riverwash.org/"
+                },
+                "ranking": "1",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            },
+            "71": {
+                "icon": "k_amiga_aga.gif",
+                "name": "Amiga AGA",
+                "slug": "amigaaga"
+            }
+        },
+        "rank": "778",
+        "releaseDate": "2017-09-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00071/00071742.jpg",
+        "type": "demo",
+        "types": [
+            "demo"
+        ],
+        "voteavg": "0.98",
+        "votedown": "0",
+        "votepig": "2",
+        "voteup": "96",
+        "zxdemo": "0"
+    },
+    {
         "addedDate": "2017-04-17 01:16:57",
         "addedUser": "13965",
         "addeduser": {
@@ -2971,6 +3114,159 @@
         "votedown": "0",
         "votepig": "2",
         "voteup": "59",
+        "zxdemo": "0"
+    },
+    {
+        "addedDate": "2017-08-06 13:48:28",
+        "addedUser": "619",
+        "addeduser": {
+            "avatar": "tomaes6.gif",
+            "glops": "5939",
+            "id": "619",
+            "level": "gloperator",
+            "nickname": "tomaes",
+            "registerDate": "2001-04-07 08:30:48"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [
+            {
+                "role": "Code",
+                "user": {
+                    "avatar": "cilindre.gif",
+                    "glops": "5",
+                    "id": "33921",
+                    "level": "user",
+                    "nickname": "Bera",
+                    "registerDate": "2008-06-21 22:41:03"
+                }
+            },
+            {
+                "role": "Code",
+                "user": {
+                    "avatar": "Bub.gif",
+                    "glops": "1",
+                    "id": "15255",
+                    "level": "user",
+                    "nickname": "xwd",
+                    "registerDate": "2005-08-08 00:41:14"
+                }
+            },
+            {
+                "role": "Direction",
+                "user": {
+                    "avatar": "dopefish.gif",
+                    "glops": "73",
+                    "id": "14104",
+                    "level": "user",
+                    "nickname": "mikron",
+                    "registerDate": "2006-08-16 14:26:31"
+                }
+            },
+            {
+                "role": "Graphics",
+                "user": {
+                    "avatar": "pouet_avatar_poi_5.gif",
+                    "glops": "110",
+                    "id": "282",
+                    "level": "user",
+                    "nickname": "spiikki",
+                    "registerDate": "2000-11-01 09:26:36"
+                }
+            },
+            {
+                "role": "Graphics",
+                "user": {
+                    "avatar": "supermario.gif",
+                    "glops": "12",
+                    "id": "58950",
+                    "level": "user",
+                    "nickname": "manupkp",
+                    "registerDate": "2010-08-21 23:36:07"
+                }
+            },
+            {
+                "role": "Music",
+                "user": {
+                    "avatar": "walker.gif",
+                    "glops": "59",
+                    "id": "15196",
+                    "level": "user",
+                    "nickname": "roz",
+                    "registerDate": "2005-08-01 08:30:36"
+                }
+            }
+        ],
+        "csdb": "0",
+        "demozoo": "176808",
+        "download": "https://files.scene.org/view/parties/2017/assembly17/oldskool_demo/my_summer_demo_by_byterapers.zip",
+        "downloadLinks": [
+            {
+                "link": "https://www.youtube.com/watch?v=5pNTlMXfDJk",
+                "type": "youtube"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "(B)",
+                "addedDate": "2000-09-05 09:52:43",
+                "addedUser": "16",
+                "id": "143",
+                "name": "Byterapers",
+                "web": "http://www.byterapers.scene.org/"
+            }
+        ],
+        "id": "71415",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "My Summer Demo",
+        "party": {
+            "id": "7",
+            "name": "Assembly",
+            "web": "http://www.assembly.org"
+        },
+        "party_compo": "92",
+        "party_compo_name": "oldskool demo",
+        "party_place": "1",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "92",
+                "compo_name": "oldskool demo",
+                "party": {
+                    "id": "7",
+                    "name": "Assembly",
+                    "web": "http://www.assembly.org"
+                },
+                "ranking": "1",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "67": {
+                "icon": "k_msdos.gif",
+                "name": "MS-Dos",
+                "slug": "msdos"
+            },
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            }
+        },
+        "rank": "2256",
+        "releaseDate": "2017-08-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00071/00071415.png",
+        "type": "demo",
+        "types": [
+            "demo"
+        ],
+        "voteavg": "0.89",
+        "votedown": "2",
+        "votepig": "2",
+        "voteup": "52",
         "zxdemo": "0"
     },
     {
@@ -16809,6 +17105,104 @@
         "zxdemo": "0"
     },
     {
+        "addedDate": "2017-02-20 08:37:34",
+        "addedUser": "58948",
+        "addeduser": {
+            "avatar": "chippix.gif",
+            "glops": "14",
+            "id": "58948",
+            "level": "user",
+            "nickname": "marcan",
+            "registerDate": "2010-08-21 22:56:39"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [
+            {
+                "role": "Code, graphics, music, hardware",
+                "user": {
+                    "avatar": "chippix.gif",
+                    "glops": "14",
+                    "id": "58948",
+                    "level": "user",
+                    "nickname": "marcan",
+                    "registerDate": "2010-08-21 22:56:39"
+                }
+            }
+        ],
+        "csdb": "0",
+        "demozoo": "168462",
+        "download": "https://files.scene.org/view/parties/2017/tokyodemofest17/wild_compo/relase.zip",
+        "downloadLinks": [
+            {
+                "link": "https://www.youtube.com/watch?v=1038A3zKyOw",
+                "type": "youtube"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "",
+                "addedDate": "2017-02-20 08:31:36",
+                "addedUser": "58948",
+                "id": "12961",
+                "name": "marcan",
+                "web": "https://marcan.st"
+            }
+        ],
+        "id": "68979",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "reLase",
+        "party": {
+            "id": "1542",
+            "name": "TokyoDemoFest",
+            "web": "http://tokyodemofest.jp/"
+        },
+        "party_compo": "127",
+        "party_compo_name": "wild demo",
+        "party_place": "1",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "127",
+                "compo_name": "wild demo",
+                "party": {
+                    "id": "1542",
+                    "name": "TokyoDemoFest",
+                    "web": "http://tokyodemofest.jp/"
+                },
+                "ranking": "1",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "66": {
+                "icon": "k_linux.gif",
+                "name": "Linux",
+                "slug": "linux"
+            },
+            "77": {
+                "icon": "k_wild.gif",
+                "name": "Wild",
+                "slug": "wild"
+            }
+        },
+        "rank": "8987",
+        "releaseDate": "2017-02-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00068/00068979.jpg",
+        "type": "wild",
+        "types": [
+            "wild"
+        ],
+        "voteavg": "0.88",
+        "votedown": "0",
+        "votepig": "2",
+        "voteup": "15",
+        "zxdemo": "0"
+    },
+    {
         "addedDate": "2017-07-26 18:00:50",
         "addedUser": "1926",
         "addeduser": {
@@ -17624,6 +18018,94 @@
         "votedown": "1",
         "votepig": "1",
         "voteup": "18",
+        "zxdemo": "0"
+    },
+    {
+        "addedDate": "2017-05-13 22:01:21",
+        "addedUser": "7105",
+        "addeduser": {
+            "avatar": "bb4cpc1l.gif",
+            "glops": "124",
+            "id": "7105",
+            "level": "user",
+            "nickname": "cngsoft",
+            "registerDate": "2004-03-18 12:43:26"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [
+            {
+                "role": "code",
+                "user": {
+                    "avatar": "bb4cpc1l.gif",
+                    "glops": "124",
+                    "id": "7105",
+                    "level": "user",
+                    "nickname": "cngsoft",
+                    "registerDate": "2004-03-18 12:43:26"
+                }
+            }
+        ],
+        "csdb": "0",
+        "demozoo": "176013",
+        "download": "http://cngsoft.no-ip.org/chipnsfx-20180101.zip",
+        "downloadLinks": [
+            {
+                "link": "http://cngsoft.no-ip.org/chipnsfx.htm",
+                "type": "minisite"
+            }
+        ],
+        "groups": [],
+        "id": "70004",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "CHIPNSFX tracker+player",
+        "party": null,
+        "party_compo": null,
+        "party_compo_name": null,
+        "party_place": "0",
+        "party_year": "0",
+        "placings": [],
+        "platforms": {
+            "107": {
+                "icon": "k_msx.gif",
+                "name": "MSX",
+                "slug": "msx"
+            },
+            "113": {
+                "icon": "k_mastersystem.gif",
+                "name": "SEGA Master System",
+                "slug": "segamastersystem"
+            },
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            },
+            "78": {
+                "icon": "k_cpc.gif",
+                "name": "Amstrad CPC",
+                "slug": "amstradcpc"
+            },
+            "82": {
+                "icon": "k_zx.gif",
+                "name": "ZX Spectrum",
+                "slug": "zxspectrum"
+            }
+        },
+        "rank": "9493",
+        "releaseDate": "2017-05-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00070/00070004.png",
+        "type": "demotool",
+        "types": [
+            "demotool"
+        ],
+        "voteavg": "0.79",
+        "votedown": "0",
+        "votepig": "3",
+        "voteup": "11",
         "zxdemo": "0"
     },
     {
@@ -28267,6 +28749,108 @@
         "zxdemo": "0"
     },
     {
+        "addedDate": "2017-08-27 22:52:39",
+        "addedUser": "100931",
+        "addeduser": {
+            "avatar": "apophysis-050627-85b-2.gif",
+            "glops": "7",
+            "id": "100931",
+            "level": "user",
+            "nickname": "romax9lahin",
+            "registerDate": "2017-08-07 22:32:09"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [
+            {
+                "role": "Code, Graphics, Music",
+                "user": {
+                    "avatar": "apophysis-050627-85b-2.gif",
+                    "glops": "7",
+                    "id": "100931",
+                    "level": "user",
+                    "nickname": "romax9lahin",
+                    "registerDate": "2017-08-07 22:32:09"
+                }
+            }
+        ],
+        "csdb": "0",
+        "demozoo": "177511",
+        "download": "https://files.scene.org/view/parties/2017/chaosconstructions17/combined_demo/serverside_demo_updated_version.jar",
+        "downloadLinks": [
+            {
+                "link": "https://files.scene.org/view/parties/2017/chaosconstructions17/combined_demo/serverside_demo.jar",
+                "type": "Party Version"
+            },
+            {
+                "link": "https://youtu.be/PrHi2GhtA54",
+                "type": "Youtube"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "",
+                "addedDate": "2017-08-27 22:42:23",
+                "addedUser": "100931",
+                "id": "13339",
+                "name": "romax9lahin",
+                "web": ""
+            }
+        ],
+        "id": "71642",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "SERVERSIDE DEMO",
+        "party": {
+            "id": "12",
+            "name": "Chaos Constructions",
+            "web": "http://chaosconstructions.ru/"
+        },
+        "party_compo": "57",
+        "party_compo_name": "combined demo",
+        "party_place": "8",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "57",
+                "compo_name": "combined demo",
+                "party": {
+                    "id": "12",
+                    "name": "Chaos Constructions",
+                    "web": "http://chaosconstructions.ru/"
+                },
+                "ranking": "8",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "74": {
+                "icon": "k_java.gif",
+                "name": "Java",
+                "slug": "java"
+            },
+            "92": {
+                "icon": "k_mobiles.gif",
+                "name": "Mobile Phone",
+                "slug": "mobilephone"
+            }
+        },
+        "rank": "14736",
+        "releaseDate": "2017-08-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00071/00071642.png",
+        "type": "demo",
+        "types": [
+            "demo"
+        ],
+        "voteavg": "1.00",
+        "votedown": "0",
+        "votepig": "0",
+        "voteup": "11",
+        "zxdemo": "0"
+    },
+    {
         "addedDate": "2017-07-09 07:32:46",
         "addedUser": "100842",
         "addeduser": {
@@ -32228,6 +32812,97 @@
         "zxdemo": "0"
     },
     {
+        "addedDate": "2017-11-27 22:32:13",
+        "addedUser": "58401",
+        "addeduser": {
+            "avatar": "directx.gif",
+            "glops": "94",
+            "id": "58401",
+            "level": "user",
+            "nickname": "hot multimedia",
+            "registerDate": "2010-08-08 11:25:45"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [],
+        "csdb": "0",
+        "demozoo": "180261",
+        "download": "https://electrontu.be/demonstrations/lhb-maehh.tar.gz",
+        "downloadLinks": [
+            {
+                "link": "https://www.youtube.com/watch?v=hZGsmJUSaN0",
+                "type": "youtube"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "LHB",
+                "addedDate": "2010-08-08 12:03:23",
+                "addedUser": "58401",
+                "id": "11098",
+                "name": "Laserboy + Hot Multimedia",
+                "web": ""
+            }
+        ],
+        "id": "72481",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "Mähh",
+        "party": {
+            "id": "1775",
+            "name": "Vortex",
+            "web": "http://vortexparty.org/"
+        },
+        "party_compo": "57",
+        "party_compo_name": "combined demo",
+        "party_place": "4",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "57",
+                "compo_name": "combined demo",
+                "party": {
+                    "id": "1775",
+                    "name": "Vortex",
+                    "web": "http://vortexparty.org/"
+                },
+                "ranking": "4",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "66": {
+                "icon": "k_linux.gif",
+                "name": "Linux",
+                "slug": "linux"
+            },
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            },
+            "92": {
+                "icon": "k_mobiles.gif",
+                "name": "Mobile Phone",
+                "slug": "mobilephone"
+            }
+        },
+        "rank": "16585",
+        "releaseDate": "2017-11-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00072/00072481.jpg",
+        "type": "demo",
+        "types": [
+            "demo"
+        ],
+        "voteavg": "0.71",
+        "votedown": "0",
+        "votepig": "2",
+        "voteup": "5",
+        "zxdemo": "0"
+    },
+    {
         "addedDate": "2017-06-03 02:04:14",
         "addedUser": "27713",
         "addeduser": {
@@ -34329,6 +35004,67 @@
         "votedown": "0",
         "votepig": "3",
         "voteup": "9",
+        "zxdemo": "0"
+    },
+    {
+        "addedDate": "2017-08-24 18:56:45",
+        "addedUser": "100982",
+        "addeduser": {
+            "avatar": "face-monkey-ok.gif",
+            "glops": "8",
+            "id": "100982",
+            "level": "user",
+            "nickname": "tmk",
+            "registerDate": "2017-08-24 18:32:21"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [],
+        "csdb": "0",
+        "demozoo": "0",
+        "download": "https://github.com/gitendo/bmp2cgb/releases/download/v1.10/bmp2cgb110.zip",
+        "downloadLinks": [
+            {
+                "link": "https://github.com/gitendo/bmp2cgb",
+                "type": "github"
+            }
+        ],
+        "groups": [],
+        "id": "71601",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "bmp2cgb",
+        "party": null,
+        "party_compo": null,
+        "party_compo_name": null,
+        "party_place": "0",
+        "party_year": "0",
+        "placings": [],
+        "platforms": {
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            },
+            "86": {
+                "icon": "k_gbc.gif",
+                "name": "Gameboy Color",
+                "slug": "gameboycolor"
+            }
+        },
+        "rank": "17240",
+        "releaseDate": "2017-04-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00071/00071601.png",
+        "type": "demotool",
+        "types": [
+            "demotool"
+        ],
+        "voteavg": "0.00",
+        "votedown": "0",
+        "votepig": "0",
+        "voteup": "0",
         "zxdemo": "0"
     },
     {
@@ -59188,6 +59924,102 @@
         "zxdemo": "0"
     },
     {
+        "addedDate": "2017-06-16 19:14:35",
+        "addedUser": "98791",
+        "addeduser": {
+            "avatar": "rocket.gif",
+            "glops": "2552",
+            "id": "98791",
+            "level": "user",
+            "nickname": "100bit",
+            "registerDate": "2014-11-19 17:17:25"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [],
+        "csdb": "0",
+        "demozoo": "172981",
+        "download": "https://files.scene.org/view/parties/2017/switch_on17/newschool_demo/jimage_-_jazzcat_hair_expo_-_pc.zip",
+        "downloadLinks": [
+            {
+                "link": "https://www.youtube.com/watch?v=e7icdwOzEFo",
+                "type": "youtube (live)"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "",
+                "addedDate": "2007-07-31 10:05:15",
+                "addedUser": "12744",
+                "id": "7636",
+                "name": "Jimage",
+                "web": "http://www.jimage.org/"
+            }
+        ],
+        "id": "70391",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "Jazzcat Hair Expo 2017",
+        "party": {
+            "id": "1807",
+            "name": "Switch On",
+            "web": "https://www.switchondemoscene.com"
+        },
+        "party_compo": "95",
+        "party_compo_name": "pc demo",
+        "party_place": "1",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "95",
+                "compo_name": "pc demo",
+                "party": {
+                    "id": "1807",
+                    "name": "Switch On",
+                    "web": "https://www.switchondemoscene.com"
+                },
+                "ranking": "1",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "139": {
+                "icon": "k_macosx.gif",
+                "name": "MacOSX Intel",
+                "slug": "macosxintel"
+            },
+            "151": {
+                "icon": "k_android.gif",
+                "name": "Android",
+                "slug": "android"
+            },
+            "66": {
+                "icon": "k_linux.gif",
+                "name": "Linux",
+                "slug": "linux"
+            },
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            }
+        },
+        "rank": "45775",
+        "releaseDate": "2017-06-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00070/00070391.jpg",
+        "type": "demo",
+        "types": [
+            "demo"
+        ],
+        "voteavg": "-0.67",
+        "votedown": "5",
+        "votepig": "0",
+        "voteup": "1",
+        "zxdemo": "0"
+    },
+    {
         "addedDate": "2017-12-15 22:49:41",
         "addedUser": "97946",
         "addeduser": {
@@ -61324,6 +62156,92 @@
         "votedown": "0",
         "votepig": "1",
         "voteup": "2",
+        "zxdemo": "0"
+    },
+    {
+        "addedDate": "2017-08-04 02:24:32",
+        "addedUser": "100924",
+        "addeduser": {
+            "avatar": "scheisse.gif",
+            "glops": "56",
+            "id": "100924",
+            "level": "banned",
+            "nickname": "assemblygames",
+            "registerDate": "2017-08-04 02:20:44"
+        },
+        "awards": [],
+        "boardID": null,
+        "cdc": 0,
+        "credits": [],
+        "csdb": "0",
+        "demozoo": "176811",
+        "download": "http://media.assembly.org/gamedev/2017/MedicalForcev2.zip",
+        "downloadLinks": [
+            {
+                "link": "https://www.youtube.com/watch?v=TDw7RxFfAmM",
+                "type": "youtube"
+            }
+        ],
+        "groups": [
+            {
+                "acronym": "",
+                "addedDate": "2017-08-04 02:23:43",
+                "addedUser": "100924",
+                "id": "13229",
+                "name": "Clusterloop",
+                "web": ""
+            }
+        ],
+        "id": "71366",
+        "invitation": null,
+        "invitationyear": "0",
+        "name": "Medical Force: Overdrive! ",
+        "party": {
+            "id": "7",
+            "name": "Assembly",
+            "web": "http://www.assembly.org"
+        },
+        "party_compo": "78",
+        "party_compo_name": "gamedev",
+        "party_place": "2",
+        "party_year": "2017",
+        "placings": [
+            {
+                "compo": "78",
+                "compo_name": "gamedev",
+                "party": {
+                    "id": "7",
+                    "name": "Assembly",
+                    "web": "http://www.assembly.org"
+                },
+                "ranking": "2",
+                "year": "2017"
+            }
+        ],
+        "platforms": {
+            "151": {
+                "icon": "k_android.gif",
+                "name": "Android",
+                "slug": "android"
+            },
+            "68": {
+                "icon": "k_win.gif",
+                "name": "Windows",
+                "slug": "windows"
+            }
+        },
+        "rank": "50801",
+        "releaseDate": "2017-08-15",
+        "sceneorg": "0",
+        "screenshot": "http://content.pouet.net/files/screenshots/00071/00071366.jpg",
+        "type": "game",
+        "types": [
+            "game"
+        ],
+        "voteavg": "0.00",
+        "votedown": "0",
+        "votepig": "1",
+        "voteup": "0",
         "zxdemo": "0"
     },
     {

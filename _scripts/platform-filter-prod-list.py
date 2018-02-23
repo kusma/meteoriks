@@ -15,7 +15,7 @@ with open(args.input, encoding='utf8') as infile:
 
 platforms = args.platforms.split(',')
 
-data = filter(lambda prod: not any(x in platforms for x in map(lambda p: p["name"], prod["platforms"].values())), data)
+data = filter(lambda prod: not all(x in platforms for x in map(lambda p: p["name"], prod["platforms"].values())), data)
 
 with open(args.output, 'w', encoding='utf8') as outfile:
     json.dump(list(data), outfile, ensure_ascii=False, indent=4, sort_keys=True)
