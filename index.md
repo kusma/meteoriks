@@ -3,5 +3,5 @@ layout: default
 ---
 # Pages
 
-* [best demo]({{ site.baseurl }}{% link best-demo.md %})
-* [all prods]({{ site.baseurl }}{% link all-prods.md %})
+* [demos]({{ site.baseurl }}{% link demos.md %}) - [json]({{ site.baseurl }}{% link demos.json %})
+* [all prods]({{ site.baseurl }}{% link prods.md %}) - [json]({{ site.baseurl }}{% link prods.json %})
