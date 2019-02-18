@@ -1,7 +1,7 @@
 title: Kusmas Meteoriks 2018 hack
 email: kusmabite@gmail.com
 description: Just some hack
-baseurl: "/meteoriks18-best-demo" # the subpath of your site, e.g. /blog
+baseurl: "/meteoriks" # the subpath of your site, e.g. /blog
 url: "http://kusma.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kusmabite
 github_username:  kusma
