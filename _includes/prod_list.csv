@@ -1,0 +1,3 @@
+"pouët id", "name", "groups", "platforms", "types"
+{% for prod in include.prods %}{{ prod.id }}, "=""{{ prod.name | smartify }}""", "=""{{ prod.groups | map: 'name' | array_to_sentence_string | smartify }}""", "{{ prod.types | array_to_sentence_string }}", "{{ prod.platforms | first | map: 'name' }}"
+{% endfor %}
