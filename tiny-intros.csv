@@ -1,0 +1,3 @@
+---
+---
+{% include prod_list.csv prods=site.data.tiny-intro %}
